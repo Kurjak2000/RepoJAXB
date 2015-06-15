@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_40" class="java.beans.XMLDecoder">
+ <object class="Our">
+  <void property="couleur">
+   <string>noir</string>
+  </void>
+  <void property="name">
+   <string>Pippo</string>
+  </void>
+  <void property="poids">
+   <int>315</int>
+  </void>
+ </object>
+</java>

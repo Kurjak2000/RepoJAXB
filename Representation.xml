@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zoo>
+	<animaux>
+		<ours>
+			<our name="Filippo" poids="300" couluer="brun"/>
+			<our name="Yoggy" poids="350" couluer="noir"/>
+		</ours>	
+		<douphins>
+			<douphin name="Skipper" poids="100" couluer="gris clair"/>
+			<douphin name="Sally" poids="110" couluer="gris foncé"/>
+		</douphins>
+	</animaux>
+</zoo>
